@@ -1,0 +1,2 @@
+(self.webpackChunk_react_code_notes_client=self.webpackChunk_react_code_notes_client||[]).push([[50968],{50968:function(){var e;(e=Prism).languages.etlua={delimiter:{pattern:/^<%[-=]?|-?%>$/,alias:"punctuation"},"language-lua":{pattern:/[\s\S]+/,inside:e.languages.lua}},e.hooks.add("before-tokenize",(function(a){e.languages["markup-templating"].buildPlaceholders(a,"etlua",/<%[\s\S]+?%>/g)})),e.hooks.add("after-tokenize",(function(a){e.languages["markup-templating"].tokenizePlaceholders(a,"etlua")}))}}]);
+//# sourceMappingURL=50968.d926132a.chunk.js.map

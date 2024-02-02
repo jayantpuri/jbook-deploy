@@ -1,0 +1,2 @@
+(self.webpackChunk_react_code_notes_client=self.webpackChunk_react_code_notes_client||[]).push([[78449],{78449:function(){!function(e){function n(n,a){e.languages[n]&&e.languages.insertBefore(n,"comment",{"doc-comment":a})}var a=e.languages.markup.tag,t={pattern:/\/\/\/.*/,greedy:!0,alias:"comment",inside:{tag:a}},c={pattern:/'''.*/,greedy:!0,alias:"comment",inside:{tag:a}};n("csharp",t),n("fsharp",t),n("vbnet",c)}(Prism)}}]);
+//# sourceMappingURL=78449.e4821e1a.chunk.js.map

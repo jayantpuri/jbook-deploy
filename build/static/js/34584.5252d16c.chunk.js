@@ -1,0 +1,2 @@
+(self.webpackChunk_react_code_notes_client=self.webpackChunk_react_code_notes_client||[]).push([[34584],{34584:function(){Prism.languages.hpkp={directive:{pattern:/\b(?:(?:includeSubDomains|preload|strict)(?: |;)|pin-sha256="[a-zA-Z\d+=/]+"|(?:max-age|report-uri)=|report-to )/,alias:"keyword"},safe:{pattern:/\b\d{7,}\b/,alias:"selector"},unsafe:{pattern:/\b\d{1,6}\b/,alias:"function"}}}}]);
+//# sourceMappingURL=34584.5252d16c.chunk.js.map

@@ -1,0 +1,2 @@
+(self.webpackChunk_react_code_notes_client=self.webpackChunk_react_code_notes_client||[]).push([[83933],{83933:function(){!function(e){e.languages.ignore={comment:/^#.*/m,entry:{pattern:/\S(?:.*(?:(?:\\ )|\S))?/,alias:"string",inside:{operator:/^!|\*\*?|\?/,regex:{pattern:/(^|[^\\])\[[^\[\]]*\]/,lookbehind:!0},punctuation:/\//}}},e.languages.gitignore=e.languages.ignore,e.languages.hgignore=e.languages.ignore,e.languages.npmignore=e.languages.ignore}(Prism)}}]);
+//# sourceMappingURL=83933.1b7014e3.chunk.js.map
